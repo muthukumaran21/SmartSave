@@ -1,0 +1,17 @@
+{
+    "name": "Mem",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "tabs"
+      ],
+      "icons": {
+        "128": "mem.png"
+      },
+    "description": "Mem extension for storing website details",
+    "browser_action": {
+        "default_icon": "mem.png",
+        "default_popup": "popup.html"
+    }
+}
+
